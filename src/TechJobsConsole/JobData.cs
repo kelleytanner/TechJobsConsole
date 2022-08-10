@@ -16,6 +16,7 @@ namespace TechJobsConsole
             return AllJobs;
         }
 
+
         /*
          * Returns a list of all values contained in a given column,
          * without duplicates. 
@@ -140,3 +141,5 @@ namespace TechJobsConsole
         }
     }
 }
+
+//notes
